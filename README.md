@@ -7,6 +7,7 @@ https://www.figma.com/file/WG1ONZnJ60TuBdsolmeXPA/BuyInternetDeals?node-id=96%3A
 
 
 ## Website Developed 
-The website in its desktop view looks like this.
+The website in its desktop view looks like this. You can check website hosted on this link for yourself
+https://shahzaibpersonal.github.io/BuyInternetDealsWebite/
 
 ![alt text](/1.png)
